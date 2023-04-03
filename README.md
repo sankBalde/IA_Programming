@@ -2,12 +2,20 @@
 
 **`IA Programming`**
 
-I am currently a 3rd year student at EPITA, I am passionate about programming and more particularly about artificial intelligence. Given the arrival of AI with ChatGPT in our daily life, I thought it was a field that would appeal to me.
-🌱 At school we have not yet started the AI courses but I am already training on the subject using the CS50 harvard course and the ZTM (tensorflow) course on UDEMY. Here are some projects that I have done in self-taught:
-- Self driver car in Javascript using a neural network
-- A Tic-tac-toe game with unbeatable AI in python
-- A Minesweeper game with an AI that gives you clues in python
-- A crossword in python
+Je suis actuellement étudiant en 3ème année à l'EPITA, je suis passionné par la programmation et plus particulièrement par l'intelligence artificielle. Vu l'arrivée de l'IA avec ChatGPT dans notre quotidien, je me suis dit que c'était un domaine qui m'intéresserait.
+🌱 Voici quelques projets que j'ai réalisé:
+- TIC-TAC-TOE : 
+    Création et implémentation d'une IA en language Python dans le jeu Morpion contre qui le joueur peut challenger.
+- MINESWEEPER : 
+    Création et implémentation d'une IA dans le jeu démineur capable de donner la bonne réponse (à 90%) au joueur qui n'arrive pas à trouver une solution de lui même.
+- NIM : 
+    Création et implémentation d'une IA qui apprend d’elle même à jouer le jeu NIM; de plus en plus cette IA s'entraine, elle devient forte.
+- QUESTIONS: 
+    Création et implémentation d'une IA qui réponds aux questions en faisant des phrases.
+- DIGITS: 
+    Création et implémentation d'une IA qui reconnait des chiffres qui sont écris à la main.
+- Knights:
+    Création et implémentation d'une IA qui résout un puzzle du jeu "Knights and Knaves" en faisant des déductions.
 ...
 
 ### Languages:
