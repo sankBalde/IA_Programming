@@ -8,3 +8,5 @@ move_1 = ia.make_safe_move()
 move_2 = ia.make_safe_move()
 
 print(move_1)
+
+print(move_2)
