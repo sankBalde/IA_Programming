@@ -14,5 +14,5 @@ Pour comprendre le fonctionnement de l'IA, il faut regarder le fichier ```tictac
 En effet, dans ce jeu on cherche à maximiser les gains du joueur et minimiser ceux de l'adversaire, c'est pourquoi on utilise l'algorithme Minimax.
 Le fichier ```test.py``` permet de faire des tests unitaires sur les fonctions utilisées dans la création de l'IA.
 
-## Auteurs
+## Auteur
 ABDOULAYE BALDE
