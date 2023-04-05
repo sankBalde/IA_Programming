@@ -17,7 +17,7 @@ Je suis actuellement étudiant en 3ème année à l'EPITA, je suis passionné pa
 - QUESTIONS: ```NATURAL LANGUAGE PROCESSING (NLP)```
 
     Création et implémentation d'une IA qui réponds aux questions en faisant des phrases.
-- DIGITS: ```CONVOLUTIONAL NEURAL NETWORK```
+- DIGITS: ```CONVOLUTIONAL NEURAL NETWORK (CNN)```
 
     Création et implémentation d'une IA qui reconnait des chiffres qui sont écris à la main.
 - Knights: ```KNOWLEDGE BASE```
