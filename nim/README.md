@@ -7,7 +7,7 @@ Ici, on a 4 piles de 1, 3, 5 et 7 objets. Au debut du jeu, l'IA doit s'entrainer
 Le nombre d'essais est paramétrable dans le fichier play.py.
 Dans mon cas j'ai choisi 10000 essais pour qu'elle soit très forte. (on aime quand c'est dur 😎)
 
-Ensuite, il faut lancer le fichier runner.py: 
+Ensuite, il faut lancer le fichier play.py: 
 ```python play.py```
 
 ![plot](./images/nim.png)

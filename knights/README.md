@@ -32,7 +32,7 @@ Pour cela on va utiliser des symboles de logique propositionnelle pour représen
 Cette manière de representer la logic de chaqu'un de ces symboles mathématiques est expliquée dans le fichier ```logic.py```.
 Nous ici, on s'occupera de donner des hypothèses à notre IA pour qu'elle puisse faire des déductions et trouver la solution.
 
-Ensuite, il faut lancer le fichier runner.py: 
+Ensuite, il faut lancer le fichier puzzle.py: 
 ```python3 puzzle.py```
 
 ![plot](Knights.png)
