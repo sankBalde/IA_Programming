@@ -1,6 +1,6 @@
 # DIGITS 
 
-Création et implémentation d'une IA en language Python dans le jeu Morpion contre qui le joueur peut challenger.
+Création et implémentation d'une IA qui reconnait des chiffres qui sont écris à la main.
 
 Pour lancer le jeu, il faut d'abord installer les librairies nécessaires: 
 ```pip3 install -r requirements.txt```. 
