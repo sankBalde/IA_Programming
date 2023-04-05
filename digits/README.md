@@ -11,7 +11,8 @@ Ensuite, Pour lancer la prediction:
 
 ![plot](./images/digit.png)
 
-Pour comprendre le fonctionnement de cette IA, il faudrait regarder le fichier ```handwitring.py``` qui contient le traitement des données de centaines d'images de chiffres notés à la main et la création du modèle , qui est juste un ```convolutional neural network```.
+Pour comprendre le fonctionnement de cette IA, il faudrait regarder le fichier ```handwitring.py``` (contient le traitement des données de centaines d'images de chiffres notés à la main) et la création du modèle , qui est juste un ```convolutional neural network```.
+
 Ensuite vient la prédiction du chiffre à partir de l'image que l'utilisateur vient de dessiner, ceci est fait dans le fichier ```recognizer.py```.
 
 ## Auteur
