@@ -1,6 +1,6 @@
 # BINARY CLASSIFICATION
 
-Dans ce Projet, on va essayer de classifier deux sortes de boules 
+Dans ce Projet, on va essayer de classer deux sortes de boules 
 de couleurs rouge et bleu. 
 
 Ces boules forment un circle en fonction de leur couleurs.

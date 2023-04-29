@@ -5,6 +5,18 @@
 Je suis actuellement étudiant en 3ème année à l'EPITA, je suis passionné par la programmation et plus particulièrement par l'intelligence artificielle. Vu l'arrivée de l'IA avec ChatGPT dans notre quotidien, je me suis dit que c'était un domaine qui m'intéresserait.
 
 🌱 Voici quelques projets que j'ai réalisés:
+
+- STEAK OR PIZZA: ````COMPUTER VISION````
+
+  L'objectif de ce projet est de créer une IA qui est capable de reconnaitre si une image est une pizza ou un steak.
+
+
+- BINARY CLASSIFICATION: ````BINARY CLASSIFICATION````
+
+  Dans ce Projet, on va essayer de classer deux sortes de boules
+  de couleurs rouge et bleu.
+
+
 - MEDICAL INSURANCE : ````LINEAR REGRESSION````
     
     Création d'une IA qui prédit le prix de l'assurance médicale en fonction de plusieurs variables.
