@@ -2,10 +2,10 @@ import tensorflow as tf
 from line import model_1, model_2
 
 # Load model_1
-model_1 = tf.keras.models.load_model("model_1")
+model_1 = tf.keras.models.load_model("model_1.h5")
 
 # Load model_2
-model_2 = tf.keras.models.load_model("model_2")
+model_2 = tf.keras.models.load_model("model_2.h5")
 
 # Trying to predict X = 17
 print("Model 1 predict X = 17 :",model_1.predict([17.0])[0][0])

@@ -27,7 +27,7 @@ def model_1():
               metrics=["mae"])
 
     model.fit(tf.expand_dims(X, axis=-1), y, epochs=100, verbose=0)
-    model.save("model_1")
+    model.save("model_1.h5")
     return model
 
 
@@ -49,14 +49,14 @@ def model_2():
 
     tf.keras.layers.Dense(10, input_shape=[1], name="input_layer"),
     tf.keras.layers.Dense(1, name="ouput_layer")
-        ], name="model_1")
+        ], name="model_1.h5")
 
     model.compile(loss="mae",
               optimizer=tf.keras.optimizers.legacy.SGD(),
               metrics=["mae"])
 
     model.fit(A_train, B_train, epochs=100, verbose=0)
-    model.save("model_2")
+    model.save("model_2.h5")
     return model
 
 # Build the 2 models
