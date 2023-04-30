@@ -6,6 +6,12 @@ Je suis actuellement étudiant en 3ème année à l'EPITA, je suis passionné pa
 
 🌱 Voici quelques projets que j'ai réalisés:
 
+- FOOD VISION: ````TRANSFER LEARNING````
+
+  L'objectif de ce projet est de créer une IA qui est capable de reconnaitre des images de nourriture en utilisant des
+modèles pré-entrainés comme ResNet50V2 et EfficientNetB0.
+
+
 - STEAK OR PIZZA: ````COMPUTER VISION````
 
   L'objectif de ce projet est de créer une IA qui est capable de reconnaitre si une image est une pizza ou un steak.
