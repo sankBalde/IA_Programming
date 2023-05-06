@@ -10,7 +10,6 @@ Ces boules forment un circle en fonction de leur couleurs.
 Et donc l'objectif est de séparer les deux cercles en créant donc
 un nouveau cercle entre les deux cercles.
 
-Pour cela 
 
 ![plot](images/After_classification.png)
 
