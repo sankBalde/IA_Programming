@@ -12,7 +12,7 @@ Ensuite, il faut lancer le fichier runner.py:
 
 Pour comprendre le fonctionnement de l'IA, il faut regarder le fichier ```minesweeper.py```.
 En effet, sachant que le jeu de démineur donne des indices sur le nombre de mines autour d'une case, 
-on cherche donc ici à avoir une Knowledge Base qui contient toutes les cases qui sont sûres et toutes les cases qui sont sûres d'être des mines et on fonction de ces informations, notre IA va faire des déductions pour trouver la solution.
+on cherche donc ici à avoir une Knowledge Base qui contient toutes les cases qui sont sûres et toutes les cases qui sont sûres d'être des mines et en fonction de ces informations, notre IA va faire des déductions pour trouver la solution.
 Le fichier ```test.py``` permet de faire des tests unitaires sur les fonctions utilisées dans la création de l'IA.
 
 ## Auteur
