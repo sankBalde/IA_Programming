@@ -1,0 +1,22 @@
+<JarvisScreen>:
+    RelativeLayout:
+        Button:
+            id: button_jarvis
+            size_hint: None, None
+            size: 200, 200
+            pos_hint: {"center_x": 0.5, "center_y": 0.5}
+            on_press: gif.anim_delay = 0.10
+            #on_press: gif._coreimage.anim_reset(True)
+            on_press: root.on_button_jarvis_press()
+            on_release: root.on_button_jarvis_release()
+
+
+        Image:
+            id: gif
+            source: './png/Jarvis_interface.gif'
+            size_hint: None, None
+            size: root.size
+            allow_stretch: True
+            keep_ratio: False
+            anim_delay: 0.10
+            anim_loop: -1
