@@ -7,13 +7,13 @@ import openai
 
 # This example requires environment variables named "OPEN_AI_KEY" and "OPEN_AI_ENDPOINT"
 # Your endpoint should look like the following https://YOUR_OPEN_AI_RESOURCE_NAME.openai.azure.com/
-openai.api_key = "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"
+openai.api_key = os.getenv("OPEN_AI_KEY")
 
 # This will correspond to the custom name you chose for your deployment when you deployed a model.
 deployment_id='text-davinci-003'
 
 # This example requires environment variables named "SPEECH_KEY" and "SPEECH_REGION"
-speech_config = speechsdk.SpeechConfig(subscription="d13b085fc41f48859ecca73249232ed3", region="eastus")
+speech_config = speechsdk.SpeechConfig(subscription=os.getenv("SPEECH_KEY"), region=os.getenv("SPEECH_REGION"))
 audio_output_config = speechsdk.audio.AudioOutputConfig(use_default_speaker=True)
 audio_config = speechsdk.audio.AudioConfig(use_default_microphone=True)
 
@@ -42,7 +42,7 @@ def chat(question):
 
 def text_to_speech(text):
     # This example requires environment variables named "SPEECH_KEY" and "SPEECH_REGION"
-    speech_config = speechsdk.SpeechConfig(subscription="d13b085fc41f48859ecca73249232ed3", region="eastus")
+    speech_config = speechsdk.SpeechConfig(subscription=os.getenv("SPEECH_KEY"), region=os.getenv("SPEECH_REGION"))
     audio_config = speechsdk.audio.AudioOutputConfig(use_default_speaker=True)
 
     # The language of the voice that speaks.
