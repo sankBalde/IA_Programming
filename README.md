@@ -5,6 +5,12 @@ Je suis actuellement étudiant en 3ème année à l'EPITA, je suis passionné pa
 
 🌱 Voici quelques projets que j'ai réalisés:
 
+- [Assistant Vocal Jarvis](https://github.com/sankBalde/IA_Programming/tree/main/jarvis_ia): ````NLP, COGNITIVES SPEECH````
+
+  Ce projet est un exemple d'assistant vocal Jarvis développé en utilisant la bibliothèque Kivy pour l'interface utilisateur,
+  la bibliothèque Azure Cognitive Services Speech pour la reconnaissance vocale et la synthèse vocale, ainsi que l'API OpenAI GPT-3
+  pour l'interaction conversationnelle.
+
 - [FOOD VISION](https://github.com/sankBalde/IA_Programming/tree/main/food_vision): ````TRANSFER LEARNING````
 
   L'objectif de ce projet est de créer une IA qui est capable de reconnaitre des images de nourriture en utilisant des
