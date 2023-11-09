@@ -1,7 +1,7 @@
 # **`IA Programming`**
 
 
-Je suis actuellement étudiant en 3ème année à l'EPITA, je suis passionné par la programmation et plus particulièrement par l'intelligence artificielle. Vu l'arrivée de l'IA avec ChatGPT dans notre quotidien, je me suis dit que c'était un domaine qui m'intéresserait.
+Je suis actuellement étudiant en 4ème année à l'EPITA, je suis passionné par la programmation et plus particulièrement par l'intelligence artificielle. Vu l'arrivée de l'IA avec ChatGPT dans notre quotidien, je me suis dit que c'était un domaine qui m'intéresserait.
 
 🌱 Voici quelques projets que j'ai réalisés:
 
