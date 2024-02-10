@@ -65,13 +65,13 @@ while True:
                         if label == 'DEL':
                             text_to_write = text_to_write[:-1]
                         if label == 'Space':
-                            text_to_write = ' '
+                            text_to_write += ' '
                         if label == 'UP':
                             if bool_upercase:
                                 bool_upercase = False
                             else:
                                 bool_upercase = True
-                            print(bool_upercase)
+                            #print(bool_upercase)
 
                         start_times[str(number)] += 1
                     else:
