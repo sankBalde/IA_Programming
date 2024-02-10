@@ -46,8 +46,6 @@ while True:
             cx, cy = (x1 + x2) // 2, (y1 + y2) // 2
 
             length = math.hypot(x2-x1, y2-y1)
-            rectFill = np.interp(length, [50, 300], [400, 150])
-            pourcent = np.interp(length, [50, 300], [0, 100])
 
             if length < 50:
                 cv2.circle(img, (cx, cy), 15, (0, 255, 0), cv2.FILLED)
